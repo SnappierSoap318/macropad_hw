@@ -12,5 +12,11 @@ Hardware for macropad
 |6  |SW1                                                                   |1  |SW_SPST     |Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight|   |
 |7  |U1                                                                    |1  |CD74HC4067M |Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm            |   |
 |8  |U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12, U13, U14, U15, U16, U17|16 |~           |Gateron:Gatreon KS-20                             |   |
+|9  |U18                                                                   |1  |~           |Nice!nano                                         |   |
 
 this is aimed a wireless Analog macropad, any suggestions and changes are welcome.
+
+
+PS, ik there isnt any holes to move the switches, have to add that in the next revision of the dxf files maybe.
+
+PS:2, The code for running this is [here](https://github.com/SnappierSoap318/macropad)
